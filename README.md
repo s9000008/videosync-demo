@@ -10,6 +10,7 @@
 2. AOP統一處理例外
 3. 分頁功能尚未實作
 4. 尚未登入無法自動跳轉問題
+
 改進清單:
 1. 會員系統改用Spring Security(另外需要完善整個功能)
 2. Controller exception改用AOP統一處理
